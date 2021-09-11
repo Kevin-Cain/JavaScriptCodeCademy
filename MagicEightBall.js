@@ -1,6 +1,6 @@
 
 
-// Magic Eight Ball
+// Magic Eight Ball Future Teller
 
 var userName = '';
 userName ? console.log(`Hello ${userName}!`)
